@@ -3,7 +3,7 @@
 
 ### Introduction
 
-The World Life Expectancy Project focuses on cleaning and analyzing data related to life expectancy across various countries using MySQL. The dataset used for this analysis is 'world_life_expectancy.csv' and can be downloaded from this repository. The project aims to uncover insights into life expectancy trends, explore correlations with other factors such as GDP, BMI, and Adult Mortality, and provide a comprehensive overview of the dataset.
+The World Life Expectancy Project focuses on cleaning and analyzing data related to life expectancy across various countries using SQL. The dataset used for this analysis is 'world_life_expectancy.csv' and can be downloaded from this repository. The project aims to uncover insights into life expectancy trends, explore correlations with other factors such as GDP, BMI, and Adult Mortality, and provide a comprehensive overview of the dataset.
 
 ### Data Cleaning
 
